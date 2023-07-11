@@ -99,3 +99,4 @@ Vous n'avez besoin que de ffmpeg et Java.
 ## Bientot supportée Jeux
 - Adibou 3 (DEV7)
 - Adi 5 (DEV7)
+- Le Pays des Pierres Magiques (DEV7)
